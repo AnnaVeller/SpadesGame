@@ -25,7 +25,7 @@
         "x": 132,
         "y": 1,
         "w": 576,
-        "h": 177
+        "h": 239
       },
       "rotated": false,
       "trimmed": false,
@@ -33,11 +33,11 @@
         "x": 0,
         "y": 0,
         "w": 576,
-        "h": 177
+        "h": 239
       },
       "sourceSize": {
         "w": 576,
-        "h": 177
+        "h": 239
       }
     },
     "button_blue_short.png": {
